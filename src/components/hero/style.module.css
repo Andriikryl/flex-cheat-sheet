@@ -1,0 +1,21 @@
+.hero{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero__title{
+    text-align: center;
+    font-size: clamp(20px, 5vw + 1rem, 40px);
+    color: #0077b6;
+    text-transform: uppercase;
+    margin-block-end: 20px;
+}
+
+.hero__description{
+    text-align: center;
+    font-size: 25px;
+    max-width: 700px;
+    margin-inline: auto;
+}
