@@ -1,0 +1,24 @@
+.justy{
+    background-color: #3d405b;
+    padding-block: 100px;
+}
+.started{
+    justify-content: start;
+}
+
+.centered{
+    justify-content: center;
+}
+
+.ended{
+    justify-content: end;
+}
+
+
+.flex__group{
+    display: flex;
+    gap: 20px;
+    margin-block-end: 10px;
+    flex-wrap: wrap;
+}
+

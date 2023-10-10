@@ -1,0 +1,27 @@
+.space{
+    background-color: #907ad6;
+    padding-block: 100px;
+}
+.started{
+    justify-content: space-around;
+}
+
+.centered{
+    justify-content:space-between;
+}
+
+.ended{
+    justify-content: center;
+}
+
+.box__gap{
+    gap: 10px;
+}
+
+.flex__group{
+    display: flex;
+    gap: 20px;
+    margin-block-end: 10px;
+    flex-wrap: wrap;
+}
+

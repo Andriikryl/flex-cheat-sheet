@@ -1,0 +1,28 @@
+.alieItems__section{
+    background-color: #22223b;
+    padding-block: 100px;
+}
+.started{
+    align-items: start;
+}
+
+.centered{
+    align-items: center;
+}
+
+.ended{
+    align-items: end;
+}
+
+.box__size{
+    max-width: 200px;
+    height: 400px;
+}
+
+.flex__group{
+    display: flex;
+    gap: 20px;
+    margin-block-end: 10px;
+    flex-wrap: wrap;
+}
+
