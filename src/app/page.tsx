@@ -13,10 +13,10 @@ export default function Home() {
       <Hero />
       <AlieItems />
       <FlexDirection />
-      <FlexThree />
       <SpacePos />
       <JustyfContent />
       <Grow />
+      <FlexThree />
       <CenterDiv />
     </>
   );
