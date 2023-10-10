@@ -1,3 +1,7 @@
+.grow{
+    background-color: #0353a4;
+    padding-block: 100px;
+}
 .box{
     gap: 20px;
     flex-wrap: wrap;
