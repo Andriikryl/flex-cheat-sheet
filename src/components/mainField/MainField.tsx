@@ -9,5 +9,5 @@ export const MainField = ({
   children: React.ReactNode;
   className?: string;
 }) => {
-  return <div className={clsx(style.box, className)}>{children}</div>;
+  return <div className={clsx(style.box, className)}>{children} </div>;
 };

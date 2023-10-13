@@ -5,6 +5,7 @@ import CenterDiv from "@/components/centerDiv/CenterDiv";
 import Display from "@/components/display/Display";
 import FlexDirection from "@/components/flexDirection/FlexDiraction";
 import FlexThree from "@/components/flexThree/FlexThree";
+import Gap from "@/components/gap/Gap";
 import Grow from "@/components/grow/Grow";
 import Hero from "@/components/hero/Hero";
 import JustyfContent from "@/components/justyfContent/JustyfContent";
@@ -18,6 +19,7 @@ export default function Home() {
       <AlieItems />
       <AlignSelf />
       <Basis />
+      <Gap />
       <FlexDirection />
       <SpacePos />
       <JustyfContent />
