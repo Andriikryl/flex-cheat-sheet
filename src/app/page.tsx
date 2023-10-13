@@ -1,5 +1,6 @@
 import AlieItems from "@/components/alieItems/AlieItems";
 import AlignSelf from "@/components/alignSelf/AlignSelf";
+import Basis from "@/components/basis/Basis";
 import CenterDiv from "@/components/centerDiv/CenterDiv";
 import Display from "@/components/display/Display";
 import FlexDirection from "@/components/flexDirection/FlexDiraction";
@@ -16,6 +17,7 @@ export default function Home() {
       <Display />
       <AlieItems />
       <AlignSelf />
+      <Basis />
       <FlexDirection />
       <SpacePos />
       <JustyfContent />
